@@ -1,2 +1,6 @@
 # keepinmind
-ikuwow keeps in mind these:
+
+## これは何？
+
+ikuwowの心の中にある信念や常日頃心がけていることを記述したドキュメント。
+
