@@ -1,6 +1,7 @@
 # 其の1
 
 （分類は後で考えるため、まずはこちらに書き込んでおく）
+TODO: 分類をしてファイルに分ける
 
 ## 総合
 
@@ -49,6 +50,7 @@ http://d.hatena.ne.jp/hyoshiok/20110205/p1
 
 ## 知っておきたい名言とか
 
+```
 Your beliefs become your thoughts
 Your thoughts become your words
 Your words become your actions
@@ -56,6 +58,7 @@ Your actions become your habits
 Your habits become your values
 Your values become your destiny
 -- Mahatma Gandhi. （要出典）
+```
 
 ## 健康
 
@@ -69,3 +72,9 @@ Your values become your destiny
 
 夜眠る前に目を酷使すると、寝ている間にずっとその強張った状態が続いてしまう。
 頭痛が発生し始めたらもう目を使うのをやめる。
+
+### 体の健康
+
+猫背にならず、常に頭は前を向いてシャキッとする。
+Macを操作しているときは顎を少しひいいて、首が天井から吊り下げられているようなイメージをする。
+姿勢がよいと気持ちも落ち込まずに済むし、肩こりも起こりづらい。
